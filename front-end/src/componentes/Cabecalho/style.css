@@ -1,0 +1,33 @@
+/* .cabecalho{
+ 
+  width:100vw;
+  height:12vw;
+  display:flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.cabecalho #logo{
+  width: 9vw;
+  height:9vw;
+  padding-left: 7.3vw;
+}
+
+.cabecalho .voltar-inicio{
+  display: flex;
+  align-items: center;
+  padding-right: 14.4vw;
+}
+
+.cabecalho .voltar-inicio img{
+  width: 1.4vw;
+  height:1.4vw;
+}
+
+.cabecalho .voltar-inicio p{
+  font-size: 1.1vw;
+  line-height: 1.2vw;
+  font-weight:300;
+  cursor:pointer;
+  color: #BE7820;
+} */

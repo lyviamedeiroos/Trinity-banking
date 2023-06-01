@@ -1,0 +1,42 @@
+.extrato{
+  position:absolute;
+
+  background:#BE7820; 
+  margin-left:43vw;
+  top:30vw;
+  right:59vw;
+  width:11vw;
+  height:5vw;
+  display:flex;
+  border-radius:0.55vw; 
+}
+
+.money{
+   display:flex;
+  flex-direction:column;
+  border:#0000;
+  background:#BE7820;
+  width:100%; 
+  height:10vw;
+  border-radius:0.55vw;  
+}
+
+.extrato .money p{
+  font-size:1vw;
+  background:#F1AC55;
+  border-radius:0.55vw;
+  margin-left:2.5vw;
+  padding-left:1vw;
+  width:5vw;
+  height:1.5vw;
+  margin-top: 7px;
+}
+
+.extrato .pop-up{
+  position:relative;
+  top:70%;
+  left:5%;
+}
+
+
+

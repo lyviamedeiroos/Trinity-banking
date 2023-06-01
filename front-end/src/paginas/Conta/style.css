@@ -1,0 +1,12 @@
+.pag-conta{
+  width:100vw;
+  height:100vh;
+  background:#100701;
+  align-items: column;
+  overflow:hidden;
+  display:flex;
+   left:0vw;
+  right:0vw;
+  top:0vw;
+  position:absolute;
+}

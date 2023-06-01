@@ -1,0 +1,31 @@
+.tarifa{
+  margin-left:55vw;
+  width:16vw;
+  height:9.5vw;
+  background:rgb(190, 120, 32, 0.85);
+  border-radius:0.55vw;
+}
+
+.tarifa .destaque p{
+  font-size:1vw;
+  text-align: left;
+  color: white;
+  margin-left:2vw;
+}
+
+
+.tarifa .destaque h1{
+  margin-left:2vw;
+  color: black;
+  font-size:1vw;
+  
+}
+
+#bt{
+  color: white;
+  background:black;
+  border-radius:0.55vw;
+  position: absolute;
+  top:715px;
+  right:516px;
+}

@@ -1,0 +1,13 @@
+.pagina-principal{
+  width:100vw;
+  height:100vh;
+  background:#100701; 
+  display:flex;
+  align-items: center;
+  
+  overflow:hidden;
+  left:0vw;
+  right:0vw;
+  top:0vw;
+  /*position:absolute;*/
+}

@@ -1,0 +1,49 @@
+
+.usuario{
+  background: #100701;
+  font-weight:700;
+  font-style: normal;
+  display: flex;
+  flex-wrap:wrap;
+  font-size: 2vw;
+  line-height: 3.1vw;
+ 
+}
+
+.usuario h1{
+  margin-top:11.5vw;
+  color: #BE7820;
+  
+}
+
+#logo{
+  width:14vw;
+  height:11vw;
+  margin-top:1vw;
+  
+  
+}
+
+
+#btsair{
+  margin-left:48vw;
+  margin-top:5vw;
+  background:#100701;
+  justify-content:center;
+  align-items:center;
+  width:10vw;
+  height:5vw;
+  cursor:pointer;
+  border: #100701;
+  
+}
+
+.usuario  #btsair p {
+  font-size: 1.1vw;
+  line-height: 1.2vw;
+  font-weight:700;
+  cursor:pointer;
+  color: #BE7820;
+}
+
+

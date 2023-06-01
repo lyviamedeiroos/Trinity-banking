@@ -1,0 +1,80 @@
+.principal-componente{
+
+  background:#100701;
+  width:100vw;
+  height:12vw;
+  display:flex;
+ align-items: column;
+  margin-top:15vw;
+}
+
+#btsomos{
+  background:#BE7820;
+  color:#FFF;
+  border-radius:0.5vw;
+  width:10vw;
+  height:3.5vw;
+  font-style: normal;
+font-weight: 400;
+font-size: 1.3vw;
+line-height: vw;
+display:flex;
+align-items: center;
+cursor:pointer;
+   margin-left: 3vw;
+   padding-left:2vw;
+  text-decoration: none;
+}
+
+#btacessar{
+  background:#BE7820;
+  color:#FFF;
+  border-radius:0.5vw;
+  width:10vw;
+  height:3.5vw;
+  font-style: normal;
+font-weight: 400;
+font-size: 1.3vw;
+line-height: vw;
+display:flex;
+align-items: center;
+ padding-left:2vw;
+cursor:pointer;
+   margin-left: 3vw;
+   padding-left:2.5vw;
+    text-decoration: none;
+}
+
+
+#btabrirconta{
+  background:#BE7820;
+  color:#FFF;
+  border-radius:0.5vw;
+  width:11vw;
+  height:3.5vw;
+  font-style: normal;
+font-weight: 400;
+font-size: 1.3vw;
+display:flex;
+align-items: center;
+ padding-left:2.5vw;
+cursor:pointer;
+   margin-left: 3vw;
+  text-decoration: none;
+}
+
+.botoes{
+ display: flex;
+  margin-top:5vw;
+  justify-content: space-between;
+ flex-direction: row;
+  margin-left:26vw;
+  text-decoration: none;
+}
+
+.principal-componente #logo{
+  width:15vw;
+  height:11vw;
+  margin-left:1vw;
+ 
+}

@@ -1,0 +1,62 @@
+
+
+.ocultacao {
+  width:16vw;
+  height:10vw;
+  display:flex;
+  align-items:column;
+  justify-content:space-around;
+  padding-left:7vw;
+
+ 
+}
+  
+
+.ocultacao #olho {
+  width:3vw;
+  height:3vw;
+   cursor:pointer;
+/*   margin-left:3vw; */
+  margin-top:4vw;
+position:absolute;
+left: 120px;  
+ 
+}
+
+.ocultacao  p{
+ font-style:normal;
+ font-weight:700;
+ font-size:1.5vw;
+ display:flex;
+ margin-top:4.5vw;
+ cursor:pointer;
+ color: white;
+  
+
+}
+
+.ocultar h1{
+  background:#BE7820;
+  width:8vw;
+  height:2.5vw;
+  font-size:1.3vw;
+  border-radius:0.55vw;
+  padding-left:1vw;
+  cursor:pointer;
+  color: white;
+  position:absolute;
+  right:1470px;
+  top:458px;
+}
+
+
+.ocultar {
+  width:25vw;
+  height:8vw;
+  justify-content:space-around;
+  margin-top:4vw;
+  
+  
+
+}
+

@@ -1,0 +1,91 @@
+.tudo-conta{
+  width:100%;
+  height:100vh;
+  background:#100701; 
+  align-items:center;
+  overflow-x:hidden;
+  display:flex;
+  flex-direction:column;
+  left:0vw;
+  right:0vw;
+  top:0vw;
+  position:absolute;
+}
+
+
+
+.caixa-cadastro{
+  width:46.4vw;
+  height:42vw;
+  border: 0.035vw solid rgba(0, 0, 0, 0.25);
+  background: #FFF;
+  border-radius:0.5vw;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-around;
+}
+
+.caixa-cadastro h2{
+  margin-left:3.3vw;
+  font-style:normal;
+  font-weight:700;
+  font-size: 2vw;
+  line-height:3.2vw;
+  color: #BE7820;
+}
+.caixa-cadastro .inserir{
+
+  width:38.3vw;
+  height:24.7vw;
+  margin-left:3.3vw;
+  display:flex;
+  flex-direction:column;
+  justify-content:space-around;
+}
+
+.caixa-cadastro .inserir h3{
+  width:100%;
+  font-style:normal;
+  font-weight:700;
+  font-size:1.4vw;
+  line-height:1.6vw;
+  color: #BE7820;
+}
+
+.inserir .lado-a-lado{
+  height:5vw;
+  display:flex;
+  justify-content:space-between;
+}
+.lado-a-lado .campo-texto-menor{
+  width: 18.4vw;
+  display:flex; 
+  flex-direction:column;
+  justify-content: center;
+}
+
+.inserir .campo-texto-menor label{
+  font-size:0.97vw;
+}
+.inserir .campo-texto-menor input{
+  width:calc(18.4vw - 1.04vw);
+  height: 3.1vw;
+  border:none;
+  background: #F0F0F5;
+  font-size:1vw;
+  padding-left:1.04vw;
+}
+
+.caixa-cadastro #btFnCadastro{
+  border:none;
+  border-radius:0.5vw;
+  background:#BE7820;
+  color: #FFF;
+  width: 38.3vw;
+  height:3.9vw;
+  margin-left: 3.3vw;
+  font-style: normal;
+  font-weight:700;
+  font-size: 1.1vw;
+  line-height: 1.2vw;
+}

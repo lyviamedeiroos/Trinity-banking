@@ -1,0 +1,107 @@
+.tudo{
+  width:100%;
+  height:100vh;
+  background:#100701; 
+  overflow:hidden;
+  align-items:center;
+  display:flex;
+ flex-direction:column;
+  left:0vw;
+  right:0vw;
+  top:0vw;
+  position:absolute;
+}
+
+.tela-login{
+  width: 100vw;
+  height:100vh;
+  display: flex;
+  align-items: center;
+  flex-direction:column;
+  background:#100701;    
+}
+
+.caixa-login{
+  width: 45.2vw;
+  height:30.2vw;
+  display:flex;
+  flex-direction: column;
+  align-items:center;
+  justify-content:center;
+  background: #FFF;
+  border-radius:0.5vw;
+  border: 0.035vw solid rgba(0, 0, 0, 0.25);
+}
+
+.caixa-login h2{
+  width: 38.3vw;
+  font-size:1.8vw;
+  font-weight:700;
+  color: #BE7820;
+}
+
+.caixa-login .inserir{
+  height: 23.3vw;
+  width: 38.3vw;
+  display: flex;
+  justify-content:space-around;
+  flex-direction:column;
+  align-items:center;
+  
+}
+
+.caixa-login .campo-texto{
+  width:100%;
+  display:flex;
+  flex-direction:column;
+  justify-content: center;
+}
+.campo-texto label{
+  font-size:0.97vw;
+}
+.campo-texto input{
+  width: calc(100% - 1.04vw);
+  height: 3.1vw;
+  border:none;
+  background: #F0F0F5;
+  border-radius:0.55vw;
+  padding-left:1.04vw;
+  font-size:1vw;
+  
+}
+
+.caixa-login .inserir p{
+  
+  width:100%;
+  font-size:0.8vw;
+  line-height: 0.9vw;
+  cursor: pointer;
+}
+
+.caixa-login .login{
+  border:none;
+  border-radius:0.5vw;
+  background:#BE7820;
+  color: #FFF;
+  width: 37vw;
+  height:3.9vw;
+  margin-right: 1vw;
+  font-style: normal;
+  font-weight:700;
+  font-size: 1.1vw;
+  line-height: 1.2vw;
+}
+
+.caixa-login h4{
+  color: #A0A0B2;
+  font-size: 1vw;
+  font-weight:400;
+  
+}
+
+.caixa-login #cadastro{
+color:#BE7820;
+  font-weight:700;
+  cursor:pointer;
+  
+}

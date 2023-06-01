@@ -1,0 +1,100 @@
+
+.container{
+  display:flex;
+  height: 300%;
+
+}
+
+.sobre{
+  width: 48%;
+  height:503px;
+
+  color: white;
+}
+
+.sobre h1{
+ color: #BE7820;
+ font-style: normal;
+ font-weight:500; 
+ font-size:95px;
+ line-height:144px; 
+ margin-left: 160px; 
+}
+
+.sobre p{
+  color: white;
+  font-style: normal;
+  font-weight:400;
+  font-size: 17px;
+  line-height:36px;
+  margin-left: 160px; 
+  text-align: justify;
+}
+
+.imagem{
+  width: 50%;
+  height:503px;
+  margin-top: 40px;
+  color: white;
+  position: absolute;
+  left: 1147px;
+}
+
+.linha{
+  color:white;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  position: absolute;
+  width: 1320px;
+  height: 515px;
+  left: 160px;
+  top: 870px;
+}
+
+.linha h3{
+  font-style:normal;
+  font-weight:500;
+  font-size:27px;
+  line-height:42px;
+  color: #BE7820;
+}
+
+.linha #listra{
+  height: 1px;
+  width: 115%;
+  position: absolute;
+  top: 50px;
+}
+.cliente{
+position: absolute;
+width: 620px;
+height: 100px;
+left: 0px;
+top: 90px;
+}
+
+.ciencia{
+position: absolute;
+width: 633.59px;
+height: 100px;
+left: 870px;
+top: 90px; 
+}
+
+.tecnologia{
+position: absolute;
+width: 633.59px;
+height: 100px;
+left: 0px;
+top: 188px;
+}
+
+.design{
+position: absolute;
+width: 633.59px;
+height: 100px;
+left: 870px;
+top: 188px;
+}
